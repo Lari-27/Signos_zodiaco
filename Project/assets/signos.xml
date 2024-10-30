@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, simbolizando energia e liderança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é associado à estabilidade, paciência e apreciação do prazer.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é conhecido pela adaptabilidade e curiosidade intelectual.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é associado à sensibilidade, intuição e proteção familiar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o signo da autoconfiança, criatividade e generosidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é conhecido pela atenção aos detalhes e praticidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra valoriza a harmonia, beleza e relacionamentos justos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é intenso, emocional e possui um grande poder de transformação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é conhecido por sua busca por conhecimento e aventura.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é associado à disciplina, responsabilidade e ambição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o signo da inovação, originalidade e humanitarismo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é conhecido pela empatia, intuição e conexão espiritual.</descricao>
+    </signo>
+</signos>
